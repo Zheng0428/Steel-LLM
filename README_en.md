@@ -1,7 +1,6 @@
 <div align="center">
 
 # Open Source Chinese Pre-trained Language Model Steel-LLM
-Created by <a href="https://www.zhihu.com/people/zhan-shi-jin-27">zhanshijin</a> and <a href="https://www.zhihu.com/people/a-xun-58-5">lishu14</a>
 </div>
 
 \[ [中文](README.md) | English \]
