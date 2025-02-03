@@ -1,7 +1,6 @@
 <div align="center">
 
 # 开源中文预训练语言模型Steel-LLM
-由<a href="https://www.zhihu.com/people/zhan-shi-jin-27">zhanshijin</a>和<a href="https://www.zhihu.com/people/a-xun-58-5">lishu14</a>创建
 </div>
 
 \[ 中文 | [English](README_en.md) \]
