@@ -62,7 +62,7 @@ Related blog: https://zhuanlan.zhihu.com/p/700395878
 [2024/4/14] Completed data collection and processing, generating bin files required for the pre-training program. Updated blog on data collection and processing: https://zhuanlan.zhihu.com/p/687338497
 
 ### 🧑‍🤝‍🧑 Community
-You are welcome to join our community group. The number of members has exceeded 200. Add WeChat to join the group: a1843450905
+You are welcome to join our community group. The number of members has exceeded 200. Add WeChat to join the group: xxxxxxxxxxx
 
 <br>
 
